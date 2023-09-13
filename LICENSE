@@ -22,3 +22,16 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+## Third-Party Components and Licensing
+
+This project may include third-party libraries, frameworks, or dependencies that are governed by their own separate licenses. The licenses for these components take precedence over the terms of the MIT License (or the BSD 2-Clause License) for those specific components.
+
+**[Name of Component]**
+
+- [Link to Component's License]
+- **License:** [Name of Component's License]
+
+[Include similar entries for each third-party component.]
+
+The MIT License (or the BSD 2-Clause License) applies to the original code written for this project and does not extend to third-party components. We make no claim to ownership or licensing rights over the code covered by other licenses; it is included solely to enable the functionality of this project.
